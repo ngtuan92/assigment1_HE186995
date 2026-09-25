@@ -1,3 +1,3 @@
  - Student's full name : Nguyen Duc Tuan
  - Student ID : HE186995
- - Project description : 
+ - Img: anhr trong folder public
